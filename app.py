@@ -1,3 +1,3 @@
-import src.Game as game
+import src.getpwd as p
 
-game.play()
+p.create()
